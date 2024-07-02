@@ -1,0 +1,11 @@
+# Sets the page title and favicon
+[server]
+headless = true
+enableCORS = false
+
+
+[theme]
+primaryColor="#1a1a1a"
+backgroundColor="#e4e4e7"
+secondaryBackgroundColor="#fbfbfb"
+textColor="#000000"
