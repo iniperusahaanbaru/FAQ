@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+body {
+    background-color: #121212;
+    color: #e0e0e0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.stExpanderHeader {
+    color: #e0e0e0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.st-expander {
+    background-color: #1e1e1e;
+    border: 1px solid #333;
+}
+
+.chatbot-button {
+    background-color: #000; /* Black button */
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+    font-family: 'Roboto', sans-serif;
+}
+
+.chatbot-button:hover {
+    background-color: #fff;
+    color: #000;
+}
+
+.register-button {
+    background-color: #FF6F61; /* Orange button */
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+    font-family: 'Roboto', sans-serif;
+}
+
+.register-button:hover {
+    background-color: #fff;
+    color: #FF6F61;
+}
