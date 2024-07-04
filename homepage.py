@@ -55,8 +55,8 @@ def display_faq_talent_pool():
             "The more diverse our talent pool, the better we can match candidates with the right opportunities."
         ),
         "How does this benefit you?": (
-            "Yes, we encourage you to refer friends and colleagues to join our talent pool. "
-            "The more diverse our talent pool, the better we can match candidates with the right opportunities."
+            "Finding work is hard, so does finding talent. "
+            "I get commision everytime i match a good fit talent with the company."
         ),        
         "How can I contact you?": (
             "You can contact me through:\n"
